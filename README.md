@@ -65,6 +65,7 @@ _keep learning & keep sharing_
 
 | 技术专栏（点击直达） | 平台 | 角色 |
 | --- | --- | --- |
+| [《虚拟电厂系统开发实战：从物联接入到市场化运营》](https://blog.csdn.net/zuozewei/category_13211922.html) | CSDN 博客 | 专栏作者 |
 | [《全链路压测实战30讲》](https://time.geekbang.org/column/intro/100093001) | 极客时间 | 专栏作者之一 |
 | [《性能测试实战30讲》](https://time.geekbang.org/column/intro/100042501) | 极客时间 | 编委 |
 | [《高楼的性能工程实战课》](https://time.geekbang.org/column/intro/100074001) | 极客时间 | 编委 |
