@@ -79,11 +79,11 @@ _keep learning & keep sharing_
 | 平台 / 组织 | 身份与荣誉 |
 | --- | --- |
 | 极客时间 | 《全链路压测实战30讲》**专栏作者之一**；《性能测试实战30讲》《高楼的性能工程实战课》**编委** |
-| 华为云 | **HCDE**（华为云开发者专家，原 MVP 计划）· 云享专家 · 2021 年度开发者社区**十佳博主** |
-| 掘金 | 2021 年度**人气作者 No.12** |
-| InfoQ | 签约作者 |
-| CSDN | 博客专家 · 领域专家（**数据库技术**）· 优质创作者（**软件测试、人工智能**） |
-| 阿里云 | 开发者社区专家博主 |
+| [华为云](https://bbs.huaweicloud.com/community/usersnew/id_1626682078895094) | **HCDE**（华为云开发者专家，原 MVP 计划）· 云享专家 · 2021 年度开发者社区**十佳博主** |
+| [掘金](https://juejin.cn/user/536976321422269) | 2021 年度**人气作者 No.12** |
+| [InfoQ](https://www.infoq.cn/u/zuozewei/publish) | 签约作者 |
+| [CSDN](https://blog.csdn.net/zuozewei) | 博客专家 · 领域专家（**数据库技术**）· 优质创作者（**软件测试、人工智能**） |
+| [阿里云](https://developer.aliyun.com/profile/u3il5xahnthn6) | 开发者社区专家博主 |
 | CCF | 专业会员 |
 | 7DGroup | 技术公众号作者 |
 | 职业证书 | PMP · CISP（国家注册信息安全专业人员）· CDSP（国际数据安全认证专家）· 软件测评师（软考）· ITSS 服务项目经理 |
