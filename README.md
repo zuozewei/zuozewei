@@ -69,6 +69,7 @@ _keep learning & keep sharing_
 | [《全链路压测实战30讲》](https://time.geekbang.org/column/intro/100093001) | 极客时间 | 专栏作者之一 |
 | [《性能测试实战30讲》](https://time.geekbang.org/column/intro/100042501) | 极客时间 | 编委 |
 | [《高楼的性能工程实战课》](https://time.geekbang.org/column/intro/100074001) | 极客时间 | 编委 |
+| [《技术文章系列整理（持续更新）》](https://zuozewei.blog.csdn.net/article/details/82911628) | CSDN 博客 | 作者 |
 
 ## 🏅 荣誉与头衔
 
