@@ -117,7 +117,15 @@ _keep learning & keep sharing_
 - **AI 工程化落地**顾问：AI 编程、智能巡检、研发效能工具
 - **技术写作 / 专栏 / 出版**合作
 
-> 🏢 企业级服务（项目咨询 / 架构优化 / 定制开发 / 企业内训 / 1对1 调优）由 [7DGroup 技术服务](https://github.com/7dgroup-ai) 承接，联系方式见其[主页](https://github.com/7dgroup-ai)。
+**🏢 企业级服务**由 [7DGroup 技术服务](https://github.com/7dgroup-ai) 承接 · 15 年行业经验：
+
+| 服务 | 内容 |
+| --- | --- |
+| 项目咨询 | 架构设计 / 技术选型 / 非功能规划 / 生产容量规划 / IT 团队管理咨询 |
+| 定制开发 | AI 应用 / 自动化工具 / 性能平台 |
+| 架构优化 | 高可用 / 性能瓶颈 / 安全合规改造 |
+| 企业内训 | 定制课程 / 团队能力提升 |
+| 1对1 服务 | 生产故障排查 / 性能调优 / 债务清理 |
 
 <a href="https://github.com/7dgroup-ai"><img src="https://img-blog.csdnimg.cn/20190304100509555.jpg" width="140" alt="7DGroup 微信公众号二维码" /></a>
 
