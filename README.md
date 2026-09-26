@@ -86,7 +86,7 @@ _keep learning & keep sharing_
 
 ## 📄 论文
 
-- 《全链路压测在 RESAR 性能工程中的应用研究》，《电脑校园》，2025
+- 高楼，左泽位，李文. [全链路压测在RESAR性能工程中的应用研究](https://d.wanfangdata.com.cn/periodical/CiBQZXJpb2RpY2FsQ0hJU29scjkyMDI2MDkxNTE0MjIxORIaUUtCSkJEMjAyNTIwMjUwNjIwMDAwMDcxMjcaCDh0ZGh0NThj)[J]. 电脑校园，2025(10): 7-9.
 
 ## 📣 社区影响力
 
