@@ -128,6 +128,11 @@ _keep learning & keep sharing_
 | 企业内训 | 定制课程 / 团队能力提升 |
 | 1对1 服务 | 生产故障排查 / 性能调优 / 债务清理 |
 
+**📮 业务咨询通道**
+
+- **微信**：`wxzuozewei`（注明"业务咨询 + 需求"）
+- **邮箱**：[zuozewei@hotmail.com](mailto:zuozewei@hotmail.com)（附需求详情优先回复）
+
 <a href="https://github.com/7dgroup-ai"><img src="https://img-blog.csdnimg.cn/20190304100509555.jpg" width="140" alt="7DGroup 微信公众号二维码" /></a>
 
 📣 更多实践干货与合作入口：微信公众号 **7DGroup**
