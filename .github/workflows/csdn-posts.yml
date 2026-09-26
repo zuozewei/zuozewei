@@ -1,0 +1,73 @@
+name: Latest CSDN Posts
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: csdn-posts
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch CSDN recent posts and update README
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import re, urllib.request, pathlib
+
+          url = "https://blog.csdn.net/zuozewei"
+          req = urllib.request.Request(url, headers={
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml",
+              "Accept-Language": "zh-CN,zh;q=0.9",
+          })
+          html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+
+          items = {}
+          for m in re.finditer(
+              r'href="(https://blog\.csdn\.net/zuozewei/article/details/\d+)"[^>]*>(?:\s*<[^>]+>\s*)*([^<]{8,100})<',
+              html,
+          ):
+              title = m.group(2).strip()
+              if title:
+                  items.setdefault(m.group(1), title)
+
+          posts = list(items.items())[:5]
+          assert len(posts) >= 3, f"parsed too few posts: {len(posts)}"
+
+          block = "\n".join(f"- [{title}]({url})" for url, title in posts)
+
+          readme = pathlib.Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+          new = re.sub(
+              r"(<!-- CSDN-POSTS:START -->\n).*?(\n<!-- CSDN-POSTS:END -->)",
+              lambda m: m.group(1) + block + m.group(2),
+              text,
+              flags=re.S,
+          )
+          assert new != text, "no update needed"
+          readme.write_text(new + "\n" if not new.endswith("\n") else new, encoding="utf-8")
+          print("updated with", len(posts), "posts")
+          PY
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "docs: 自动更新最新文章列表"
+            git push
+          else
+            echo "README unchanged"
+          fi
