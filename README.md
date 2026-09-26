@@ -15,6 +15,8 @@
 
 <div align="center">
 
+[English](./README_EN.md) | 简体中文
+
 # 你好，我是 zuozewei 👋
 
 **书灯夜雨澄** · 质量安全技术负责人（虚拟电厂 & 能源物联网方向）
