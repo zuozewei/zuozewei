@@ -61,6 +61,14 @@ _keep learning & keep sharing_
 | [dsh-skill-7d-code-reviewer](https://github.com/7dgroup-ai/dsh-skill-7d-code-reviewer) | 11 | AI 代码评审技能插件 |
 | [7d-sats-pef](https://github.com/7dgroup-ai/7d-sats-pef) | 2 | AI 驱动的压测评估平台（FastAPI + Vue 3） |
 
+## 📚 代表作品
+
+| 技术专栏（点击直达） | 平台 | 角色 |
+| --- | --- | --- |
+| [《全链路压测实战30讲》](https://time.geekbang.org/column/intro/100093001) | 极客时间 | 专栏作者之一 |
+| [《性能测试实战30讲》](https://time.geekbang.org/column/intro/100042501) | 极客时间 | 编委 |
+| [《高楼的性能工程实战课》](https://time.geekbang.org/column/intro/100074001) | 极客时间 | 编委 |
+
 ## 🏅 荣誉与头衔
 
 | 平台 / 组织 | 身份与荣誉 |
