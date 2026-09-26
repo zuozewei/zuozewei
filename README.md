@@ -86,6 +86,7 @@ _keep learning & keep sharing_
 | 阿里云 | 开发者社区专家博主 |
 | CCF | 专业会员 |
 | 7DGroup | 技术公众号作者 |
+| 职业证书 | PMP · CISP（国家注册信息安全专业人员）· CDSP（国际数据安全认证专家）· 软件测评师（软考）· ITSS 服务项目经理 |
 
 ## 📄 论文
 
