@@ -47,7 +47,7 @@ jobs:
 
           block = "\n".join(f"- [{title}]({url})" for url, title in posts)
 
-          readme = pathlib.Path("README.md")
+          readme = pathlib.Path("README_ZH.md")
           text = readme.read_text(encoding="utf-8")
           new = re.sub(
               r"(<!-- CSDN-POSTS:START -->\n).*?(\n<!-- CSDN-POSTS:END -->)",
@@ -62,10 +62,10 @@ jobs:
 
       - name: Commit changes
         run: |
-          if [[ -n "$(git status --porcelain README.md)" ]]; then
+          if [[ -n "$(git status --porcelain README_ZH.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
+            git add README_ZH.md
             git commit -m "docs: 自动更新最新文章列表"
             git push
           else
