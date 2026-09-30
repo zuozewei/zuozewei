@@ -105,10 +105,10 @@ _keep learning & keep sharing_
 
 <!-- CSDN-POSTS:START -->
 - [技术文章系列整理（持续更新）](https://blog.csdn.net/zuozewei/article/details/82911628)
+- [AI 时代的测试方法论：当需求碎片化、demo 化，测试拿什么当判定依据](https://blog.csdn.net/zuozewei/article/details/166842652)
 - [第07篇-物模型与设备影子-统一抽象的得与失](https://blog.csdn.net/zuozewei/article/details/166829037)
 - [第06篇-协议接入-MQTT与CoAP的最小可用实现](https://blog.csdn.net/zuozewei/article/details/166742035)
 - [番外B4-11天1个人加AI-搭了一套网络监控系统](https://blog.csdn.net/zuozewei/article/details/159353754)
-- [番外B1-AI原生测试来了-但传统测试平台还没到黄昏](https://blog.csdn.net/zuozewei/article/details/159479355)
 <!-- CSDN-POSTS:END -->
 
 <sub>🔄 每日由 GitHub Action 自动同步自 [CSDN 博客](https://blog.csdn.net/zuozewei)</sub>
