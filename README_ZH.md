@@ -104,11 +104,11 @@ _keep learning & keep sharing_
 ## 📝 最新文章
 
 <!-- CSDN-POSTS:START -->
-- [第08篇-时序数据链路-附双库实测](https://blog.csdn.net/zuozewei/article/details/166947658)
 - [技术文章系列整理（持续更新）](https://blog.csdn.net/zuozewei/article/details/82911628)
+- [第09篇-边缘网关-断网续传与边缘自治](https://blog.csdn.net/zuozewei/article/details/167039610)
+- [第08篇-时序数据链路-附双库实测](https://blog.csdn.net/zuozewei/article/details/166947658)
 - [AI 时代的测试方法论：当需求碎片化、demo 化，测试拿什么当判定依据](https://blog.csdn.net/zuozewei/article/details/166842652)
 - [第07篇-物模型与设备影子-统一抽象的得与失](https://blog.csdn.net/zuozewei/article/details/166829037)
-- [第06篇-协议接入-MQTT与CoAP的最小可用实现](https://blog.csdn.net/zuozewei/article/details/166742035)
 <!-- CSDN-POSTS:END -->
 
 <sub>🔄 每日由 GitHub Action 自动同步自 [CSDN 博客](https://blog.csdn.net/zuozewei)</sub>
