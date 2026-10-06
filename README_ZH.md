@@ -105,10 +105,10 @@ _keep learning & keep sharing_
 
 <!-- CSDN-POSTS:START -->
 - [技术文章系列整理（持续更新）](https://blog.csdn.net/zuozewei/article/details/82911628)
+- [第13篇-能力评估算法下-储能空调充电桩可调容量](https://blog.csdn.net/zuozewei/article/details/167172823)
+- [第12篇-能力评估算法上-光伏出力预测与区间校准](https://blog.csdn.net/zuozewei/article/details/167132161)
 - [第11篇-资源台账与档案管理-看似简单最藏坑](https://blog.csdn.net/zuozewei/article/details/167117641)
 - [第10篇-设备认证与安全接入-一机一密落地](https://blog.csdn.net/zuozewei/article/details/167083064)
-- [第09篇-边缘网关-断网续传与边缘自治](https://blog.csdn.net/zuozewei/article/details/167039610)
-- [第08篇-时序数据链路-附双库实测](https://blog.csdn.net/zuozewei/article/details/166947658)
 <!-- CSDN-POSTS:END -->
 
 <sub>🔄 每日由 GitHub Action 自动同步自 [CSDN 博客](https://blog.csdn.net/zuozewei)</sub>
