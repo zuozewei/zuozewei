@@ -104,11 +104,11 @@ _keep learning & keep sharing_
 ## 📝 最新文章
 
 <!-- CSDN-POSTS:START -->
+- [第15篇-指令链路-调度指令如何安全到达设备](https://blog.csdn.net/zuozewei/article/details/167219039)
 - [技术文章系列整理（持续更新）](https://blog.csdn.net/zuozewei/article/details/82911628)
+- [第14篇-聚合引擎-从单资源到可调容量池](https://blog.csdn.net/zuozewei/article/details/167175042)
 - [第13篇-能力评估算法下-储能空调充电桩可调容量](https://blog.csdn.net/zuozewei/article/details/167172823)
 - [第12篇-能力评估算法上-光伏出力预测与区间校准](https://blog.csdn.net/zuozewei/article/details/167132161)
-- [第11篇-资源台账与档案管理-看似简单最藏坑](https://blog.csdn.net/zuozewei/article/details/167117641)
-- [第10篇-设备认证与安全接入-一机一密落地](https://blog.csdn.net/zuozewei/article/details/167083064)
 <!-- CSDN-POSTS:END -->
 
 <sub>🔄 每日由 GitHub Action 自动同步自 [CSDN 博客](https://blog.csdn.net/zuozewei)</sub>
