@@ -105,10 +105,10 @@ _keep learning & keep sharing_
 
 <!-- CSDN-POSTS:START -->
 - [技术文章系列整理（持续更新）](https://blog.csdn.net/zuozewei/article/details/82911628)
+- [第18篇-区域定制的边界-多区域交付的经验教训](https://blog.csdn.net/zuozewei/article/details/167473342)
 - [第17篇-基线核算与偏差考核-电网结算的依据](https://blog.csdn.net/zuozewei/article/details/167273448)
 - [第16篇-策略引擎-规则DSL与执行框架](https://blog.csdn.net/zuozewei/article/details/167222658)
 - [第15篇-指令链路-调度指令如何安全到达设备](https://blog.csdn.net/zuozewei/article/details/167219039)
-- [第14篇-聚合引擎-从单资源到可调容量池](https://blog.csdn.net/zuozewei/article/details/167175042)
 <!-- CSDN-POSTS:END -->
 
 <sub>🔄 每日由 GitHub Action 自动同步自 [CSDN 博客](https://blog.csdn.net/zuozewei)</sub>
