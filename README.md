@@ -155,3 +155,9 @@ Personal consulting areas:
 _✨ keep learning & keep sharing ✨_
 
 </div>
+
+<!-- badge-camo-test -->
+<img alt="t1-komarev" src="https://komarev.com/ghpvc/?username=zuozewei&style=flat-square&color=blueviolet&v=2"/>
+<img alt="t2-getloli" src="https://count.getloli.com/get/@zuozewei"/>
+<img alt="t3-visitorbadge" src="https://api.visitorbadge.io/api/visits?path=https%3A%2F%2Fgithub.com%2Fzuozewei&label=Visitors"/>
+<img alt="t4-worker" src="https://profile-counter.mshengnl.workers.dev/zuozewei/count.svg"/>
