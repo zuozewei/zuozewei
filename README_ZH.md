@@ -11,6 +11,10 @@
 
   代表项目的 Star 数由 shields.io 动态徽章实时渲染，无需手工维护。
   「📝 最新文章」由 GitHub Action 每日抓取 CSDN 主页自动更新；贪吃蛇动画由 Action 生成在 output 分支。
+
+  访问量计数使用 count.getloli.com（Moe-Counter）；komarev.com 于 2026-10-13 弃用
+  （GitHub camo 代理已无法抓取该服务，徽章长期 404）。
+  如 getloli 日后失效，可自部署 Moe-Counter：https://github.com/journey-ad/Moe-Counter
 -->
 
 <div align="center">
@@ -28,7 +32,7 @@ _keep learning & keep sharing_
 [![CSDN 博客专家](https://img.shields.io/badge/CSDN_博客专家-blog.csdn.net%2Fzuozewei-red?style=flat-square&logo=rss)](https://blog.csdn.net/zuozewei)
 [![CCF 专业会员](https://img.shields.io/badge/CCF-专业会员-0F766E?style=flat-square)](https://www.ccf.org.cn)
 [![公众号](https://img.shields.io/badge/公众号-7DGroup-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/7dgroup-ai)
-[![访问量](https://komarev.com/ghpvc/?username=zuozewei&style=flat-square&color=blueviolet)](https://github.com/zuozewei)
+[![访问量](https://count.getloli.com/get/@zuozewei)](https://github.com/zuozewei)
 
 </div>
 

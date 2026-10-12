@@ -5,6 +5,8 @@
   Stats cards use the community instance github-readme-stats-eight-theta.vercel.app (verified 2026-09-26);
   if it goes down, self-host on Vercel per the notes in README.md.
   Star counts are dynamic shields.io badges. "Latest Posts" live list is auto-updated daily by GitHub Action in README_ZH.md only.
+  The visitor counter uses count.getloli.com (Moe-Counter); komarev.com was dropped on 2026-10-13 as GitHub camo could no longer fetch it.
+  If getloli dies too, self-host Moe-Counter: https://github.com/journey-ad/Moe-Counter
 -->
 
 <div align="center">
@@ -22,7 +24,7 @@ _keep learning & keep sharing_
 [![CSDN Blog Expert](https://img.shields.io/badge/CSDN_博客专家-blog.csdn.net%2Fzuozewei-red?style=flat-square&logo=rss)](https://blog.csdn.net/zuozewei)
 [![CCF Member](https://img.shields.io/badge/CCF-专业会员-0F766E?style=flat-square)](https://www.ccf.org.cn)
 [![WeChat](https://img.shields.io/badge/公众号-7DGroup-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/7dgroup-ai)
-[![Visitors](https://komarev.com/ghpvc/?username=zuozewei&style=flat-square&color=blueviolet)](https://github.com/zuozewei)
+[![Visitors](https://count.getloli.com/get/@zuozewei)](https://github.com/zuozewei)
 
 </div>
 
@@ -155,9 +157,3 @@ Personal consulting areas:
 _✨ keep learning & keep sharing ✨_
 
 </div>
-
-<!-- badge-camo-test -->
-<img alt="t1-komarev" src="https://komarev.com/ghpvc/?username=zuozewei&style=flat-square&color=blueviolet&v=2"/>
-<img alt="t2-getloli" src="https://count.getloli.com/get/@zuozewei"/>
-<img alt="t3-visitorbadge" src="https://api.visitorbadge.io/api/visits?path=https%3A%2F%2Fgithub.com%2Fzuozewei&label=Visitors"/>
-<img alt="t4-worker" src="https://profile-counter.mshengnl.workers.dev/zuozewei/count.svg"/>
