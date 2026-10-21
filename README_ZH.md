@@ -107,8 +107,8 @@ _keep learning & keep sharing_
 ## 📝 最新文章
 
 <!-- CSDN-POSTS:START -->
-- [第02篇-k6-脚本结构与生命周期](https://blog.csdn.net/zuozewei/article/details/168143773)
 - [技术文章系列整理（持续更新）](https://blog.csdn.net/zuozewei/article/details/82911628)
+- [第02篇-k6-脚本结构与生命周期](https://blog.csdn.net/zuozewei/article/details/168143773)
 - [第24篇-国际标准-IEC与CIM模型该用到什么程度](https://blog.csdn.net/zuozewei/article/details/168143638)
 - [第23篇-网络安全分区-横向隔离与纵向认证](https://blog.csdn.net/zuozewei/article/details/168029724)
 - [第22篇-聚合商平台安全技术体系-等保二级关键控制项与差距映射](https://blog.csdn.net/zuozewei/article/details/167922082)
